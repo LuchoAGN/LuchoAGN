@@ -4,7 +4,7 @@
 const luchoagn = {
     pronouns: "he" | "him",
     code: [Javascript, Typescript, HTML, CSS, Python],
-    tools: [React, Node, Astro, Vue, Docker, AWS EC2, AWS S3, AWS RDS],
+    tools: [React, Node, Astro, Vue, FastAPI, Docker, AWS EC2, AWS S3, AWS RDS],
     architecture: ["microservices", "event-driven"]
 }
 ```
@@ -30,8 +30,6 @@ const luchoagn = {
 ---
 
 ### 📫 Get In Touch
-
-<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
 
 <a href="https://www.linkedin.com/in/luchoagn/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
